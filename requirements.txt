@@ -1,0 +1,5 @@
+python-telegram-bot[all]>=20.0
+psycopg2-binary
+openpyxl
+xlrd
+python-dotenv
